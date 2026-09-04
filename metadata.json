@@ -1,0 +1,6 @@
+{
+  "name": "IRON CLOUD MC",
+  "description": "Official website and store for IRON CLOUD MC Minecraft Network. Experience Minecraft Like Never Before on play.ironcloudmc.fun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
